@@ -1,0 +1,6 @@
+<nav search_view="search">
+  <view name="Overview" default="true" />
+  <view name="Security" />
+  <view name="Traffic" />
+  <view name="search" />
+</nav>

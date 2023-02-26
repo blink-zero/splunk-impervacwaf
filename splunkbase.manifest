@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "date": "2023-01-18T10:36:15.646864076Z",
+  "hashAlgorithm": "SHA-256",
+  "app": {
+    "id": 6627,
+    "version": "1.1.1",
+    "files": [
+      {
+        "path": "metadata/default.meta",
+        "hash": "5a37d5404486a1dda31e596fa68e964bccd0aeef0b7e25f6a9c07f6a06b495bd"
+      },
+      {
+        "path": "default/data/ui/views/Overview.xml",
+        "hash": "6f381e95297303e2f486ed65929b68594c60ba984bd6cfec0ded956bda05bac8"
+      },
+      {
+        "path": "default/data/ui/views/Security.xml",
+        "hash": "92d7f0611eaf619ffa3bdd41fbe94476fdd07c27c1590246f3166e2cf69d948a"
+      },
+      {
+        "path": "default/data/ui/views/Traffic.xml",
+        "hash": "adc223603cb86108c46e8c76ab212001ec6058a44fdd524d1d77476e21f29aef"
+      },
+      {
+        "path": "default/data/ui/nav/default.xml",
+        "hash": "9e9a883e011bcdcd567125376e6ee85d0f15882baba1b770104a7a1be0801707"
+      },
+      {
+        "path": "default/app.conf",
+        "hash": "7b7017450326f7a8fba9714c0d5c80a0b4f7d69e3e7123ef3aa61cb204c33a2b"
+      },
+      {
+        "path": "default/props.conf",
+        "hash": "cc86f4b4f3e6a9ab35b03833eb7346dcf5f0d503b2b8010f267980539c530774"
+      },
+      {
+        "path": "default/transforms.conf",
+        "hash": "ff51feb6e7087136e91b76ca57525c4fbdfd76dbcea643a62da3b2fbd0e792d2"
+      },
+      {
+        "path": "static/appIcon.png",
+        "hash": "03df982b825fd0975157e093db6c5ba965e54258ee27ba9c24e48b98d449a14b"
+      },
+      {
+        "path": "static/appIcon_2x.png",
+        "hash": "51e083c86898aa2d185cee47c09d6106f24d2e4e7c61ede5a1a8cb915b7fb668"
+      },
+      {
+        "path": "static/appLogo_2x.png",
+        "hash": "0d10c0922a4f16e3230399b080c25fd5fd710f9f523c64fc677f780d0b495619"
+      },
+      {
+        "path": "app.manifest",
+        "hash": "02427a2a8c782e5a37dba43401f11dc5bf8dc41a2d58565c77781d22e9050698"
+      },
+      {
+        "path": "lookups/imperva_vendor_act.csv",
+        "hash": "808ec6748a7eff71015879b342ae2c1779ebedb7c626555727cbaa36459f438a"
+      },
+      {
+        "path": "lookups/imperva_severity.csv",
+        "hash": "309b0fdb697db3967556e12e6ddd21103b0d7ed00db4b7f9e7c67174a8bb5b27"
+      }
+    ]
+  },
+  "products": [
+    {
+      "platform": "splunk",
+      "product": "enterprise",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    },
+    {
+      "platform": "splunk",
+      "product": "cloud",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    }
+  ]
+}
